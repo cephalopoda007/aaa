@@ -11,7 +11,7 @@ namespace Sklep_Interentowy.Models
         public string NazwaPlikuIkony { get; set; }
 
         public virtual ICollection<Kurs> Kursy { get; set; }
-        string dupa; 
+       
 
     }
 }
