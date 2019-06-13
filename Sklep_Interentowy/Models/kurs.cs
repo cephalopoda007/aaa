@@ -7,6 +7,9 @@ namespace Sklep_Interentowy.Models
 {
     public class Kurs
     {
+
+
+
         public int KursId { get; set; }
         public int KategoriaId { get; set; }
         public string TytulKursu { get; set; }
